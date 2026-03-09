@@ -1,25 +1,61 @@
-# Developer Projects
+# Developer Projects Portfolio
 
-This repository contains several programming projects built to practice Java and Python development.
+Welcome! 👋  
+This repository contains several programming projects I built while learning **Java and Python**.
 
-## Projects
+These projects focus on practicing programming fundamentals such as logic building, user interaction, and clean code structure.
 
-### Task Manager (Java, MySQL)
-CRUD application for managing tasks with database persistence using Java and MySQL.
+---
 
-### Simple Calculator (Java)
-Basic calculator implementing mathematical operations with exception handling and OOP concepts.
+## 📌 Projects
 
-### Password Generator (Python)
-Tool for generating secure random passwords using Python's `random` module.
+### 🗂 Task Manager (Java, MySQL)
+A simple task management application that allows users to create, view, and delete tasks.
 
-### Number Guessing Game (Python)
-Interactive Python game where the user guesses a randomly generated number.
+Concepts practiced:
+- CRUD operations
+- Data structures
+- Basic backend logic
 
+---
 
-## Technologies
+### 🧮 Simple Calculator (Java)
+A beginner-friendly calculator that performs basic mathematical operations.
+
+Concepts practiced:
+- Java basics
+- Exception handling
+- User input handling
+
+---
+
+### 🔐 Password Generator (Python)
+A Python tool that generates secure random passwords using letters, numbers, and symbols.
+
+Concepts practiced:
+- Python random module
+- Lists and loops
+- Automation logic
+
+---
+
+### 🎯 Number Guessing Game (Python)
+A fun interactive game where the computer selects a random number and the user tries to guess it.
+
+Concepts practiced:
+- Loops
+- Conditional statements
+- User interaction
+
+---
+
+## 💻 Technologies Used
 
 - Java
 - Python
 - MySQL
-- Git
+- Git & GitHub
+
+---
+
+These projects are part of my **learning journey as a future software developer**.

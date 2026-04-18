@@ -1,27 +1,39 @@
-# 🐍 Python Mini Projects
+# 🚀 Developer Projects — by Hikman Shinwari
 
-A growing collection of small, focused Python projects — each one built to practice a specific concept: loops, conditions, data structures, algorithms, and clean code.
+A curated collection of small, focused projects in **Python** and **Java** — each one built to practice a specific concept: loops, conditions, data structures, OOP, and clean code.
 
-Follow my daily coding journey on [LinkedIn](https://linkedin.com/in/hikman-shinwari) 🚀
+Part of my journey as an aspiring **Backend Developer** based in Hamburg, Germany 📍
+
+Follow my daily progress on [**LinkedIn**](https://linkedin.com/in/hikman-shinwari) 💼
 
 ---
 
 ## 📂 Projects
 
+### 🐍 Python
+
 | # | Project | Concepts | Link |
 |---|---------|----------|------|
-| 01 | Number Guessing Game | `random`, `while`, `if/elif/else`, `input()` | [→ Code](./number-guessing-game) |
-| 02 | Remove Duplicates | `list`, `set`, `dict.fromkeys()`, `for` loop | [→ Code](./remove-duplicates) |
+| 01 | Number Guessing Game | `random`, `while`, `if/elif/else`, `input()` | [→ Code](./number-guessing-game-python) |
+| 02 | Password Generator | `random`, `string`, list comprehension | [→ Code](./password-generator-python) |
+| 03 | Remove Duplicates | `list`, `set`, `dict.fromkeys()`, loops | [→ Code](./remove-duplicates-python) |
 
-*More projects added daily.*
+### ☕ Java
+
+| # | Project | Concepts | Link |
+|---|---------|----------|------|
+| 01 | Simple Calculator | OOP, methods, input parsing | [→ Code](./simple-calculator-java) |
+| 02 | Task Manager | OOP, ArrayList, CRUD operations | [→ Code](./task-manager-java) |
+
+*More projects added regularly.* 🚧
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Language:** Python 3.x
-- **Editor:** VS Code / PyCharm
-- **No external dependencies** — pure Python
+- **Languages:** Python 3.x, Java 17+
+- **Editor:** VS Code, IntelliJ IDEA
+- **Version Control:** Git & GitHub
 
 ---
 
@@ -29,10 +41,10 @@ Follow my daily coding journey on [LinkedIn](https://linkedin.com/in/hikman-shin
 
 ```bash
 # Clone the repo
-git clone https://github.com/hikman-shinwari/python-mini-projects.git
+git clone https://github.com/hikman-shinwari/developer-projects.git
 
-# Navigate into a project
-cd python-mini-projects/remove-duplicates
+# Navigate into any project
+cd developer-projects/remove-duplicates-python
 
 # Run it
 python3 duplicates.py
@@ -44,20 +56,30 @@ python3 duplicates.py
 
 Each project explores a real-world concept — not just syntax, but **why** certain patterns matter:
 
-- When to use `set()` vs `dict.fromkeys()` (performance vs order)
-- How Python handles iteration and mutability
+- When to use `set()` vs `dict.fromkeys()` — performance vs order preservation
+- How Python handles iteration, mutability, and scope
+- Object-oriented design in Java — classes, inheritance, encapsulation
 - Writing clean, readable, production-style code
-- Structuring code for maintainability
+- Structuring projects for maintainability
 
 ---
 
-## 🤝 Connect
+## 🎯 Goals
+
+- 🟢 Build consistency: ship one small project regularly
+- 🟢 Strengthen backend fundamentals (Python + Java)
+- 🟢 Prepare for a **Backend Developer internship** in Hamburg / Germany
+- 🟢 Grow a public developer portfolio
+
+---
+
+## 🤝 Let's connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/hikman-shinwari](https://linkedin.com/in/hikman-shinwari)
 - 🐙 **GitHub:** [github.com/hikman-shinwari](https://github.com/hikman-shinwari)
-- 📍 **Based in:** Hamburg, Germany
+- 📍 **Location:** Hamburg, Germany
 - 🎯 **Open to:** Backend Developer internships (Python / Java)
 
 ---
 
-⭐ *If you find this useful, star the repo — it helps a lot!*
+⭐ *If you find this repo useful or inspiring, consider giving it a star — it really helps!*

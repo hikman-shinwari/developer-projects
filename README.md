@@ -1,61 +1,63 @@
-# Developer Projects Portfolio
+# 🐍 Python Mini Projects
 
-Welcome! 👋  
-This repository contains several programming projects I built while learning **Java and Python**.
+A growing collection of small, focused Python projects — each one built to practice a specific concept: loops, conditions, data structures, algorithms, and clean code.
 
-These projects focus on practicing programming fundamentals such as logic building, user interaction, and clean code structure.
-
----
-
-## 📌 Projects
-
-### 🗂 Task Manager (Java, MySQL)
-A simple task management application that allows users to create, view, and delete tasks.
-
-Concepts practiced:
-- CRUD operations
-- Data structures
-- Basic backend logic
+Follow my daily coding journey on [LinkedIn](https://linkedin.com/in/hikman-shinwari) 🚀
 
 ---
 
-### 🧮 Simple Calculator (Java)
-A beginner-friendly calculator that performs basic mathematical operations.
+## 📂 Projects
 
-Concepts practiced:
-- Java basics
-- Exception handling
-- User input handling
+| # | Project | Concepts | Link |
+|---|---------|----------|------|
+| 01 | Number Guessing Game | `random`, `while`, `if/elif/else`, `input()` | [→ Code](./number-guessing-game) |
+| 02 | Remove Duplicates | `list`, `set`, `dict.fromkeys()`, `for` loop | [→ Code](./remove-duplicates) |
 
----
-
-### 🔐 Password Generator (Python)
-A Python tool that generates secure random passwords using letters, numbers, and symbols.
-
-Concepts practiced:
-- Python random module
-- Lists and loops
-- Automation logic
+*More projects added daily.*
 
 ---
 
-### 🎯 Number Guessing Game (Python)
-A fun interactive game where the computer selects a random number and the user tries to guess it.
+## 🛠 Tech Stack
 
-Concepts practiced:
-- Loops
-- Conditional statements
-- User interaction
+- **Language:** Python 3.x
+- **Editor:** VS Code / PyCharm
+- **No external dependencies** — pure Python
 
 ---
 
-## 💻 Technologies Used
+## 🚀 How to run
 
-- Java
-- Python
-- MySQL
-- Git & GitHub
+```bash
+# Clone the repo
+git clone https://github.com/hikman-shinwari/python-mini-projects.git
+
+# Navigate into a project
+cd python-mini-projects/remove-duplicates
+
+# Run it
+python3 duplicates.py
+```
 
 ---
 
-These projects are part of my **learning journey as a future software developer**.
+## 📚 What I'm learning
+
+Each project explores a real-world concept — not just syntax, but **why** certain patterns matter:
+
+- When to use `set()` vs `dict.fromkeys()` (performance vs order)
+- How Python handles iteration and mutability
+- Writing clean, readable, production-style code
+- Structuring code for maintainability
+
+---
+
+## 🤝 Connect
+
+- 💼 **LinkedIn:** [linkedin.com/in/hikman-shinwari](https://linkedin.com/in/hikman-shinwari)
+- 🐙 **GitHub:** [github.com/hikman-shinwari](https://github.com/hikman-shinwari)
+- 📍 **Based in:** Hamburg, Germany
+- 🎯 **Open to:** Backend Developer internships (Python / Java)
+
+---
+
+⭐ *If you find this useful, star the repo — it helps a lot!*
